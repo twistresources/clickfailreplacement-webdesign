@@ -1,0 +1,7 @@
+<project>
+        <includeProject>tooltwist</includeProject>
+        <includeProject>ttStd</includeProject>
+        <includeProject>ttWbd</includeProject>
+        <includeProject>blog_t</includeProject>
+        <includeProject>piq_t</includeProject>
+</project>
